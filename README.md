@@ -54,7 +54,7 @@ This tutorial is for anyone who wants to capture the Artificial Intelligence age
   - CNN algorithm and computer vision (how models manipulate an image)
   - Object detection models, comparison, datasets, sample operations
 
-- 5. Hafta: Natural Language Processing (NLP)
+- Week 5: Natural Language Processing (NLP)
   - Why was the Transformer needed?
   - What is Encoder – decoder?
   - What is Attention?
