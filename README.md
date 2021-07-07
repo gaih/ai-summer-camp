@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png">
+  <img src="images/logo.png">
 </div>
 
 # Welcome to our AI Summer Camp Repo!
